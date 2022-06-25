@@ -8,5 +8,6 @@
    - Api development
    - Web development technologies
    - Projects utilizing Linux host
-   - 
+   - Docker projects
+   - Data science projects
 - 💞️ Industry/Topic interests include: Space, weather, public safety, artificial intelligence, and fitness.
