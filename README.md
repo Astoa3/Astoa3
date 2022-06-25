@@ -1,0 +1,12 @@
+- 👋 Hello, I’m @Astoa3
+- 👀 I’m interested in building software applications for recreational use. I am to utilize github to learn from the community and apply my knowledge and skills developed here in my professional journey.
+- 🌱 I’m currently working on:
+   - Python development
+   - C# development
+   - C++ development
+   - Java development
+   - Api development
+   - Web development technologies
+   - Projects utilizing Linux host
+   - 
+- 💞️ Industry/Topic interests include: Space, weather, public safety, artificial intelligence, and fitness.
