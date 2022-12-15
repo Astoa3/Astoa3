@@ -9,7 +9,7 @@ Programming Languages:
    - Visual Basic
    - C ++
    - PHP
-Markup Languages:
+ Markup Languages:
    - HTML
    - CSS
    - XML
