@@ -9,13 +9,16 @@ Programming Languages:
    - Visual Basic
    - C ++
    - PHP
+   
  Markup Languages:
    - HTML
    - CSS
    - XML
    - YAML
+   
 Database:
    - MySQL
+   
 Devop tools:
    - Docker
    - REST API software
