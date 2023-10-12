@@ -1,6 +1,6 @@
 Hello There,
 
-I am currently an engineer with 3 years of experience in QA automation testing, linux administration, product support, technical writing, and application development. 
+I am currently an engineer with over 3 years of experience in QA automation testing, linux administration, product support, technical writing, and application development. 
 
 The following below is a summary of my skillset:
 
