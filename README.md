@@ -30,6 +30,7 @@ Devop tools:
    - Docker
 
  Accomplishments:
+ 
     - Lead and manage QA sprints. Weekly releases of QA test plans and release notes for internal use, stakeholders, and customers.
 
     - Successfully automate regression testing for customer invoice portals. Saving company 40 hours of manual testing between QA team.
